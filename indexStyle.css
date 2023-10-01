@@ -11,6 +11,7 @@
     color: white;
     height: 1500px;
     width:100%;
+    overflow-x: hidden;
 
   }
 
@@ -90,8 +91,8 @@
     font-weight: 400;
     color:#fff;
     font-size: 180%;
-    top: 330px;
-    left: 150px;
+    top: 25vw;
+    left: 5vw;
   
   }
   
@@ -109,6 +110,7 @@
   
   #m {
    
+
     color: crimson;
     font-size: 140%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
